@@ -1,0 +1,85 @@
+body {
+    font-size: 15pt;
+    background: rgb(0,128,128)
+}
+h1{
+  text-align: center ;
+  color: yellow;
+  font-size: 50px;
+}
+.center{
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  width :300px;
+  
+}
+p{
+  color : yellow;
+  font-size: 20px;
+}
+header{
+  background: grey;
+}
+.nav-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-links li {
+  margin: 0 1rem;
+}
+
+.nav-links a {
+  font-size: 25px;
+  color: yellow;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  text-decoration: none;
+}
+.about{
+  text-align: center;
+  color : greenyellow
+}
+a{
+  font-size: 35px;
+  color: blanchedalmond;
+  text-decoration: none ;
+  justify-content: left;
+}
+footer{
+  background-color:gray;
+  padding: 1rem;
+}
+.block{
+  width: 50px;
+}
+.Political Wards{
+  width:30px;
+}
+h4{
+  text-align: center ;
+  font-size: 25px;
+  color: greenyellow;
+}
+h5{
+  text-align: center;
+  font-size: 35px;
+  color : yellow;
+}
+h3{
+  color : greenyellow;
+  font-size: 25px;
+  text-align: center;
+}
+img{
+  display: block;
+  margin-left: auto ;
+  margin-right: auto;
+  width:270px;
+}
