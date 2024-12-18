@@ -14,9 +14,9 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width:300px;
-  border: 1px solid;
-  border-radius: 5px;
+  width:400px;
+  border:none;
+  margin-bottom: 10px;
 }
 button{
   display: flex;
@@ -24,11 +24,17 @@ button{
   margin-right: auto;
   justify-content: center;
   align-items: center;
-  font-size: 30px;
+  font-size: 20px;
   background-color: white;
+  border-radius: 8px;
 
 }
 a{
   text-decoration: none;
   color: black ;
+}
+.Places{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
