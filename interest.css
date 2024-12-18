@@ -38,3 +38,7 @@ a{
   flex-direction: column;
   gap: 10px;
 }
+footer{
+  background-color:gray;
+  padding: 1rem 2rem;
+}
